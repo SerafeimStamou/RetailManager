@@ -1,0 +1,5 @@
+C:\RetailManager\RetailManagerData\bin\Debug\RetailManagerData.dacpac
+C:\RetailManager\RetailManagerData\bin\Debug\RetailManagerData.dll
+C:\RetailManager\RetailManagerData\bin\Debug\RetailManagerData.pdb
+C:\RetailManager\RetailManagerData\obj\Debug\RetailManagerData.dll
+C:\RetailManager\RetailManagerData\obj\Debug\RetailManagerData.pdb
