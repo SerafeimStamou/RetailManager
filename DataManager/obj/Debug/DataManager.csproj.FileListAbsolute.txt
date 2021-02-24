@@ -93,3 +93,5 @@ C:\RetailManager\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cach
 C:\RetailManager\DataManager\obj\Debug\DataManager.csproj.CopyComplete
 C:\RetailManager\DataManager\obj\Debug\DataManager.dll
 C:\RetailManager\DataManager\obj\Debug\DataManager.pdb
+C:\RetailManager\DataManager\bin\Swashbuckle.Core.dll
+C:\RetailManager\DataManager\bin\WebActivatorEx.dll
